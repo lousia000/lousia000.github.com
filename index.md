@@ -51,4 +51,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 |10日 | |||					                滑雪				
 |10日||||				                登别				
 |11日||||				 酒店|         札幌(新千歳空港)			
-|札幌(新千歳空港)	东京	
+札幌(新千歳空港)	东京	
